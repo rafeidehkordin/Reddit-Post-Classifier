@@ -24,4 +24,3 @@ Then I did feature extraction including Instantiated and fitted CountVectorizer 
 
 - Model training: Using the data processed as described above, the text classifier model is fed training data that consists of feature vectors for each text, different machine learning models were developed and used to predict the class a text sample is more related to including Naive Bayes Classifier, Logistic Regression and Random Forest Model. The best result is for Naive Bayes with count vectorizer with 92% accuracy for testing dataset and 98% accuracy for training dataset.
 
-![image](https://user-images.githubusercontent.com/65835498/174289179-ad9a9e73-c718-4a6d-af50-014c67680f98.png)
